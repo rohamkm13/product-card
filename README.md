@@ -9,7 +9,8 @@ A clean product card component built with HTML & CSS.
 - Minimal design
 
 ## Screenshot
- <img src="Macbook-Pro-16-2110x1286.png"  alt="Description of image 1"/>
+ <img src="Macbook-Pro-16.png"  alt="Description of image 1"/>
+ <img src="iPhone-14-Pro.png"  alt="Description of image 1"/>
 
 ## What I Learned
 - Creating reusable card components
